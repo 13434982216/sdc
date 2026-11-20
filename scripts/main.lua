@@ -1,2 +1,4 @@
 -- sdc 空项目入口
-print("sdc project started")
+function Start()
+    print("sdc project started")
+end
