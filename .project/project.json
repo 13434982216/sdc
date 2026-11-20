@@ -1,0 +1,27 @@
+{
+  "$schema": "../schemas/project.schema.json",
+  "project_id": "p_di2c",
+  "author": {
+    "id": "1052919190"
+  },
+  "entry": "main.lua",
+  "version": "1.0.0",
+  "taptap_publish": {
+    "title": "",
+    "description": "",
+    "category": "simulation",
+    "screen_orientation": "landscape",
+    "collection_type": "sce",
+    "trial_note": "",
+    "app_platforms": "1,2",
+    "developer_id": 418172
+  },
+  "assets": {
+    "icon": "",
+    "screenshots": [],
+    "promotional_image": ""
+  },
+  "metadata": {
+    "updated_at": "2026-11-20T11:06:58.067Z"
+  }
+}

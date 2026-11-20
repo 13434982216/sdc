@@ -1,0 +1,5 @@
+canvas=512 source_canvas=960 fps=10 source_ground_y=856 scaled_ground_y=456.53
+stop count=48 fps=10
+shoot count=18 fps=10
+hurt count=28 fps=10
+dead count=43 fps=10

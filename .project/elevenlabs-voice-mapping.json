@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "provider": "elevenlabs",
+  "default_language": "cmn",
+  "default_stability": 0.5,
+  "characters": {
+    "临港封锁守卫": {
+      "voice_id": "38IEzXFrfAajTZL0kuo6",
+      "voice_name": "临港封锁守卫_voice",
+      "description": "Voice Design - 三十多岁的成年中国男性封锁部队守卫，低沉厚实且略带沙哑的男中低音，仿佛隔着战术防毒面具说话但咬字仍清楚；语速稳健偏快，开头短暂惊疑并停顿，随后迅速转为高度戒备、强硬而权威的军事命令语气；末世军事惊悚游戏中的专业中文配音演员风格，克制、不夸张、不像播音员；studio-quality recording，professional audio，clear articulation。",
+      "language": "cmn",
+      "stability": 0.5,
+      "created_at": "2026-08-15T17:34:28.634Z",
+      "last_used": "2026-08-15T17:34:28.634Z"
+    }
+  },
+  "special_voices": {}
+}
